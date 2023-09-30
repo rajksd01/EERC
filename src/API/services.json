@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "name": "Service 1",
+      "serviceId": 1,
+      "description": "Service 1 description"
+    },
+    {
+      "name": "Service 2",
+      "serviceId": 2,
+      "description": "Service 1 description"
+    },
+    {
+      "name": "Service 3",
+      "serviceId": 3,
+      "description": "Service 1 description"
+    },
+    {
+      "name": "Service 4",
+      "serviceId": 4,
+      "description": "Service 1 description"
+    },
+    {
+      "name": "Service 5",
+      "serviceId": 5,
+      "description": "Service 1 description"
+    }
+  ]
+}

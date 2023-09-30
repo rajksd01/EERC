@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Experienced In All Seven Provinces and Worked in almost 20 municipalities (rural and urban).",
+      "description": "omprehensive Municipal Engagement Project is a testament to our dedication to creating positive change in communities across all seven provinces and nearly 20 municipalities. By combining extensive experience, local empowerment, data-driven insights, and a commitment to sustainability, we have contributed to the development and growth of diverse communities, leaving a legacy of progress that will endure for generations to come. ",
+      "projectId": 1,
+      "imageUrl": "../../public/images/projects/1.png"
+    },
+    {
+      "name": "More than 30 DRRM and CCA Plans, Capacity Building trainings.",
+      "description": "Developing more than 30 DRRM and CCA plans, alongside our comprehensive capacity-building training initiatives, underscores our dedication to enhancing community resilience and adapting to the challenges posed by disasters and climate change. Our collaborative and participatory approach ensures that our work is impactful, sustainable, and responsive to the evolving needs of the communities we serve.",
+      "projectId": 2,
+      "imageUrl": "../../public/images/projects/2.png"
+    },
+    {
+      "name": "More than 40 BES/IEE/EIA for several infrastructure developments",
+      "description": "Our extensive track record of more than 40 EIAs, IEEs, and BES assessments for infrastructure developments underscores our unwavering commitment to responsible and sustainable development. We recognize the importance of balancing the need for infrastructure with the imperative of safeguarding our environment. Our expertise in conducting rigorous assessments and proposing mitigation measures ensures that our clients can proceed with their projects in a manner that respects and protects the natural world.        ",
+      "projectId": 3,
+      "imageUrl": "../../public/images/projects/3.png"
+    },
+    {
+      "name": "Experienced in preparation of profiles and periodic development plan, tourism development feasibility study and plan preparation.",
+      "description": " extensive experience in profile preparation, periodic development planning, and tourism development feasibility studies and planning is a testament to our commitment to excellence and our ability to contribute meaningfully to a wide range of projects. We pride ourselves on delivering documents that are not only informative but also instrumental in achieving project success, fostering growth, and promoting sustainable development.",
+      "projectId": 4,
+      "imageUrl": "../../public/images/projects/4.png"
+    },
+    {
+      "name": "DPR preparation of road, hospitals, cold store, information Centre, administrative buildings, etc.",
+      "description": "The DPRs prepared for the road infrastructure, hospitals, cold storage units, information centers, administrative buildings, and other facilities will serve as comprehensive blueprints for their successful implementation. These documents will facilitate informed decision-making, secure funding, and guide the construction and development processes, ultimately resulting in improved infrastructure, services, and quality of life for the residents of the target region.",
+      "projectId": 5,
+      "imageUrl": "../../public/images/projects/5.png"
+    },
+    {
+      "name": "DPR preparation of road, hospitals, cold store, information Centre, administrative buildings, etc.",
+      "description": "The DPRs prepared for the road infrastructure, hospitals, cold storage units, information centers, administrative buildings, and other facilities will serve as comprehensive blueprints for their successful implementation. These documents will facilitate informed decision-making, secure funding, and guide the construction and development processes, ultimately resulting in improved infrastructure, services, and quality of life for the residents of the target region.",
+      "projectId": 6,
+      "imageUrl": "../../public/images/projects/6.png"
+    }
+  ]
+}
